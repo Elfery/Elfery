@@ -40,5 +40,5 @@ I am a python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
-  <img scr="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="arduino" width="40" height="40"/>&nbsp;
 </div>

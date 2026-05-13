@@ -61,3 +61,20 @@ I am a python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - [Разоблачёние на леанблока💀](https://t.me/ElferyLaptop/1086)
 - [НАКОНЕЦ ТО!](https://t.me/ElferyLaptop/1082)
 <!-- BLOG-POST-LIST:END -->
+
+
+
+---
+###  :atom:  My projects:
+
+<a href="https://burav.netlify.app/">
+    <img src="https://img.shields.io/badge/snake-red?style=for-the-badge&logo=snake&logoColor=white" alt="snake Badge"/>
+  </a>
+
+  <a href="https://elenoraatom.netlify.app/">
+    <img src="https://img.shields.io/badge/eleanora-red?style=for-the-badge&logo=eleanora&logoColor=white" alt="eleanora Badge"/>
+  </a>
+
+  <a href="https://tetrisatomicheart.netlify.app/">
+    <img src="https://img.shields.io/badge/tetris-red?style=for-the-badge&logo=tetris&logoColor=white" alt="tetris Badge"/>
+  </a>

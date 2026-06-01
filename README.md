@@ -55,11 +55,12 @@ I am a python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#щп
+#phasmophobia](https://t.me/ElferyLaptop/1096)
+- [Мне сняли гипс со 2 руки💀](https://t.me/ElferyLaptop/1094)
+- [Лето началось уже в Новосибирске 😎](https://t.me/ElferyLaptop/1093)
 - [💚💚💚💚💚💚💚💚](https://t.me/ElferyLaptop/1091)
 - [Ваш день рождения сегодня 🎉🎉🎉](https://t.me/ElferyLaptop/1090)
-- [Elfery108÷9×11](https://t.me/ElferyLaptop/1089)
-- [Готовьтесь, ваш день рождения завтра!](https://t.me/ElferyLaptop/1088)
-- [Всех с 9 мая🫡](https://t.me/ElferyLaptop/1087)
 <!-- BLOG-POST-LIST:END -->
 
 

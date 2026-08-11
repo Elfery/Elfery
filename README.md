@@ -55,11 +55,11 @@ I am a python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Lets go](https://t.me/ElferyLaptop/1109)
+- [Окак](https://t.me/ElferyLaptop/1108)
 - [Купил на распродаже в Стиме новую игру, девушка переживает говорит я пропаду](https://t.me/ElferyLaptop/1107)
 - [Еду домой](https://t.me/ElferyLaptop/1106)
 - [Тайлера сдесь нет](https://t.me/ElferyLaptop/1103)
-- [Тайлер?](https://t.me/ElferyLaptop/1102)
-- [Ну куда же без багов](https://t.me/ElferyLaptop/1101)
 <!-- BLOG-POST-LIST:END -->
 
 

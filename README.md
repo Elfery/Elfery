@@ -55,11 +55,13 @@ I am a python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;это реально страшно&rpar;](https://t.me/ElferyLaptop/1133)
+- [&lpar;это реально страшно&rpar;](https://t.me/ElferyLaptop/1132)
+- [Это страшно
+&lpar;5 дуликов&rpar;](https://t.me/ElferyLaptop/1131)
+- [Space marine 2
+Space marine 2](https://t.me/ElferyLaptop/1128)
 - [Lets go](https://t.me/ElferyLaptop/1122)
-- [Dmc мертв](https://t.me/ElferyLaptop/1121)
-- [Кадры с minecraft vr](https://t.me/ElferyLaptop/1111)
-- [Прошел за 1 день Warhammer 40k space marine 1](https://t.me/ElferyLaptop/1110)
-- [Lets go](https://t.me/ElferyLaptop/1109)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -55,11 +55,11 @@ I am a python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Моему легендарному скину исполнилось ровно 2 года!!!](https://t.me/ElferyLaptop/1140)
 - [Пацани , я не понимаю как это работает](https://t.me/ElferyLaptop/1139)
 - [Перепрошил Galaxy tab a8 на lineageOS](https://t.me/ElferyLaptop/1138)
 - [Купил Rust по фулл цене, оверпрайс или стоит своих денег?](https://t.me/ElferyLaptop/1136)
 - [Омай гад, омаай гад](https://t.me/ElferyLaptop/1135)
-- [А кстати, я тут пропал жетско , покачто не во что не играю о чем бы было много контента поэтому буду немного вещей из жизни писа...](https://t.me/ElferyLaptop/1134)
 <!-- BLOG-POST-LIST:END -->
 
 
